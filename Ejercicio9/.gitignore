@@ -1,0 +1,9 @@
+# Variables de entorno
+notebooks/.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
